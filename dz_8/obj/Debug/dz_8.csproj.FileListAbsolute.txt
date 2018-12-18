@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Source\Repos\dz_8\dz_8\bin\Debug\dz_8.exe.config
+C:\Users\Дмитрий\Source\Repos\dz_8\dz_8\bin\Debug\dz_8.exe
+C:\Users\Дмитрий\Source\Repos\dz_8\dz_8\bin\Debug\dz_8.pdb
+C:\Users\Дмитрий\Source\Repos\dz_8\dz_8\obj\Debug\dz_8.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Source\Repos\dz_8\dz_8\obj\Debug\dz_8.MainForm.resources
+C:\Users\Дмитрий\Source\Repos\dz_8\dz_8\obj\Debug\dz_8.Properties.Resources.resources
+C:\Users\Дмитрий\Source\Repos\dz_8\dz_8\obj\Debug\dz_8.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Source\Repos\dz_8\dz_8\obj\Debug\dz_8.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Source\Repos\dz_8\dz_8\obj\Debug\dz_8.exe
+C:\Users\Дмитрий\Source\Repos\dz_8\dz_8\obj\Debug\dz_8.pdb
